@@ -5,7 +5,7 @@ A simple HTML and CSS-based product page for the Apple iPhone 13.
 - **Responsive Design**: Adapts to various screen sizes.
 - **Product Information**: Includes an image, description, features, and price.
 - **Navigation Links**: "Home," "Products," and "Contact" links in the footer.
-- 
+  
 # HTML Overview
 - **Header**: Contains site name and navigation links.
 - **Main**: Contains product image and details.
